@@ -1,2 +1,3 @@
-# sobre
-Este é um repositório de exemplo para o workshop de git do Cesar School mostrando uma página de sobre
+# Otacilio Maia
+
+Eu sou um estudante do **Cesar School** do 5 período.
